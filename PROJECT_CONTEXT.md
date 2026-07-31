@@ -1,4 +1,4 @@
-﻿# LeetCode Hot 100 学习项目上下文
+# LeetCode Hot 100 学习项目上下文
 
 ## 项目目标
 
@@ -17,6 +17,10 @@
 - `day01_hash_and_two_pointers.ipynb`: Day 01 学习文件，主题是哈希表和双指针入门。
 - `day01_practice.ipynb`: Day 01 练习题纯享版，只含题目和空代码框，不含提示、思路和答案。
 - `前置知识补充.ipynb`: 模块化前置知识库，用来记录通用概念，不放具体题解。
+- `day02_hash_set_and_sliding_window.ipynb`: Day 02 学习文件，主题是哈希集合与滑动窗口。
+- `day02_practice.ipynb`: Day 02 练习题纯享版。
+- `day03_prefix_sum_and_array.ipynb`: Day 03 学习文件，主题是前缀和与连续数组进阶。
+- `day03_practice.ipynb`: Day 03 练习题纯享版。
 
 ## 持久规范
 
@@ -85,3 +89,16 @@ Day 02 已创建，主题是：
 - 无重复字符的最长子串
 - 固定长度滑动窗口
 - 找到字符串中所有字母异位词
+
+## Day 03 学习进度
+
+Day 03 已创建，主题是：
+
+- 前缀和 + 哈希表
+- 动态规划 / Kadane 算法
+- 前缀积 + 后缀积
+- 单调队列 + 双端队列
+- 和为 K 的子数组
+- 最大子数组和
+- 除自身以外数组的乘积
+- 滑动窗口最大值
