@@ -21,6 +21,9 @@
 - `day02_practice.ipynb`: Day 02 练习题纯享版。
 - `day03_prefix_sum_and_array.ipynb`: Day 03 学习文件，主题是前缀和与连续数组进阶。
 - `day03_practice.ipynb`: Day 03 练习题纯享版。
+- `专题_if和while怎么选.ipynb`: Python 条件分支与条件循环专题，重点讲解 `if`、`while` 和 `for` 的选择。
+- `day04_array_and_matrix.ipynb`: Day 04 学习文件，主题是数组与矩阵操作。
+- `day04_practice.ipynb`: Day 04 练习题纯享版。
 
 ## 持久规范
 
@@ -102,3 +105,18 @@ Day 03 已创建，主题是：
 - 最大子数组和
 - 除自身以外数组的乘积
 - 滑动窗口最大值
+
+## Day 04 学习进度
+
+Day 04 已创建，主题是：
+
+- 排序 + 区间合并
+- 三次反转
+- 边界模拟
+- 行列标记集合
+- 合并区间
+- 轮转数组
+- 螺旋矩阵
+- 矩阵置零
+
+Day 04 不包含困难题。
