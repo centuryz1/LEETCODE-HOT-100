@@ -23,6 +23,7 @@
 - `day03_practice.ipynb`: Day 03 练习题纯享版。
 - `专题_if和while怎么选.ipynb`: Python 条件分支与条件循环专题，重点讲解 `if`、`while` 和 `for` 的选择。
 - `专题_ACM和LeetCode输入输出.ipynb`: 秋招笔试标准输入输出与 LeetCode 函数形式转换专题。
+- `专题_双指针为什么用while_left小于right.ipynb`: 双指针搜索区间、循环条件和三数之和去重专题。
 - `day04_array_and_matrix.ipynb`: Day 04 学习文件，主题是数组与矩阵操作。
 - `day04_practice.ipynb`: Day 04 练习题纯享版。
 
