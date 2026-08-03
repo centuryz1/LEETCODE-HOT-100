@@ -22,6 +22,7 @@
 - `day03_prefix_sum_and_array.ipynb`: Day 03 学习文件，主题是前缀和与连续数组进阶。
 - `day03_practice.ipynb`: Day 03 练习题纯享版。
 - `专题_if和while怎么选.ipynb`: Python 条件分支与条件循环专题，重点讲解 `if`、`while` 和 `for` 的选择。
+- `专题_ACM和LeetCode输入输出.ipynb`: 秋招笔试标准输入输出与 LeetCode 函数形式转换专题。
 - `day04_array_and_matrix.ipynb`: Day 04 学习文件，主题是数组与矩阵操作。
 - `day04_practice.ipynb`: Day 04 练习题纯享版。
 
