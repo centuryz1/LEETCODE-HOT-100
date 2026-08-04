@@ -16,7 +16,7 @@
 
 - `day01_hash_and_two_pointers.ipynb`: Day 01 学习文件，主题是哈希表和双指针入门。
 - `day01_practice.ipynb`: Day 01 练习题纯享版，只含题目和空代码框，不含提示、思路和答案。
-- `前置知识补充.ipynb`: 模块化前置知识库，用来记录通用概念，不放具体题解。
+- `零碎知识补充.ipynb`: 持续记录刷题和 Python 学习中不会、易忘、易混淆的细节知识。
 - `day02_hash_set_and_sliding_window.ipynb`: Day 02 学习文件，主题是哈希集合与滑动窗口。
 - `day02_practice.ipynb`: Day 02 练习题纯享版。
 - `day03_prefix_sum_and_array.ipynb`: Day 03 学习文件，主题是前缀和与连续数组进阶。
@@ -24,6 +24,9 @@
 - `专题_if和while怎么选.ipynb`: Python 条件分支与条件循环专题，重点讲解 `if`、`while` 和 `for` 的选择。
 - `专题_ACM和LeetCode输入输出.ipynb`: 秋招笔试标准输入输出与 LeetCode 函数形式转换专题。
 - `专题_双指针为什么用while_left小于right.ipynb`: 双指针搜索区间、循环条件和三数之和去重专题。
+- `专题_Docker从入门到实践.ipynb`: 分层讲解 Docker 基础、Python 容器化、Web 服务与基础排错。
+- `专题_时间复杂度和空间复杂度.ipynb`: 面向秋招的复杂度计算方法、常见算法分析与面试表达专题。
+- `Python基础知识手册_算法与秋招版.ipynb`: 面向刷题和秋招笔试的模块化 Python 基础查阅手册。
 - `day04_array_and_matrix.ipynb`: Day 04 学习文件，主题是数组与矩阵操作。
 - `day04_practice.ipynb`: Day 04 练习题纯享版。
 
@@ -33,7 +36,7 @@
 
 1. `PROJECT_CONTEXT.md`
 2. `NOTEBOOK_SPEC.md`
-3. `前置知识补充.ipynb`
+3. `零碎知识补充.ipynb`
 4. 最近一天的 `dayXX_*.ipynb`
 
 每日 notebook 应保持统一风格：
@@ -42,13 +45,13 @@
 - 题目描述要完整，但用改写版，不机械照搬原题。
 - 每题要包含输入、输出、限制、例子、思路拆解、动手练习、参考答案、面试表达。
 - 用户动手写的代码块里，要用注释重复题目、输入、目标、输出、注意事项。
-- 通用知识放进 `前置知识补充.ipynb`，当天题解放进 Day notebook。
+- 通用细节知识放进 `零碎知识补充.ipynb`，当天题解放进 Day notebook。
 
 ## 项目结构约定
 
 - 每日学习文件命名：`dayXX_topic_name.ipynb`
 - 每日练习题纯享版命名：`dayXX_practice.ipynb`
-- 前置知识文件：`前置知识补充.ipynb`
+- 零碎知识文件：`零碎知识补充.ipynb`
 - 项目规范文件：`NOTEBOOK_SPEC.md`
 - 跨设备继续提示：`NEXT_SESSION_PROMPT.md`
 - 项目日志：`PROJECT_LOG.md`
